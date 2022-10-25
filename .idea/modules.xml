@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/android_tdd.iml" filepath="$PROJECT_DIR$/.idea/android_tdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.iml" filepath="$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ElegantNumberButton/android_tdd.ElegantNumberButton.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_tdd.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_tdd.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_tdd.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_tdd.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_tdd.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_tdd.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_tdd.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_tdd.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
